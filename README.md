@@ -1,2 +1,2 @@
 # meeting
-drafts for meeting
+Stored meeting notes
